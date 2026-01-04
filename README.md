@@ -1,4 +1,4 @@
-## Hello, i'm Heitor
+## Hello, i am Heitor.
 
 <!--
 **HeitorCabralDeBrito/HeitorCabralDeBrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
